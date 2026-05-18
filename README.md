@@ -16,7 +16,5 @@ The MCMTSYN method mainly involves three key points. The first point is to integ
 
 * MCMTSYNtrain.py used to train the model.
 
-## Run time
 
-The run time on the device (CPU: AMD EPYC 7642 48-Core Processor, GPU NVIDIA Geforce RTX 3090 Ti, ARM 64G) is about 1d6h.
-# MCMTSYN
+
