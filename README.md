@@ -11,7 +11,7 @@ The MCMTSYN method mainly involves three key points. The first point is to integ
 *  pandas
 
 ## Running the Code
-*Create a "data" folder and store the data downloaded from the "Tag" of this repository in the "data" folder.
+* Create a "data" folder and store the data downloaded from the "Tag" of this repository in the "data" folder.
 
 * Run the AEtrain.py first to pre-train a drug encoder and a cell line encoder.
 
